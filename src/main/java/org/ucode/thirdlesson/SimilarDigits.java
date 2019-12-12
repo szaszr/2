@@ -22,10 +22,8 @@ public class SimilarDigits {
         int num1 = scan.nextInt();
         System.out.println("Please input the second number: ");
         int num2 = scan.nextInt();
-        int firstNum;
-        firstNum = num1;
-        int lastNum;
-        lastNum=num2;
+        int firstNum = num1;
+        int lastNum = num2;
         while (firstNum>=10) {
             firstNum=firstNum/10;
         }
