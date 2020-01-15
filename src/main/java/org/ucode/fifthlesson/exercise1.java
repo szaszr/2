@@ -1,7 +1,9 @@
 package org.ucode.fifthlesson;
 
-import java.util.*;
-import java.io.*;
+import com.fathzer.soft.javaluator.DoubleEvaluator;
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 
 /*
 Write a Java program to print the result of the following operations.
@@ -23,9 +25,13 @@ public class exercise1 {
         try {
             File myObj = new File("e://ex1.txt");
             Scanner myReader = new Scanner(myObj);
+            DoubleEvaluator evaluator = new DoubleEvaluator();
             while (myReader.hasNextLine()) {
-                String data = myReader.nextLine();;
-                System.out.println(data);
+                String expression = myReader.nextLine();
+                System.out.println("Equation: "+expression);
+                Double result = evaluator.evaluate(expression);
+                System.out.println("The result of the equation above is: "+result);
+
             }
             myReader.close();
         } catch (IOException e) {

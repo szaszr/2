@@ -3,7 +3,8 @@ package org.ucode.fifthlesson;
 import java.io.*;
 import java.util.Arrays;
 
-public class exercise1SecondTry { public static void main(String [] args) {
+public class exercise1SecondTry {
+    public static void main(String [] args) {
 
     // The name of the file to open.
     String fileName = "e://ex1.txt";
