@@ -3,7 +3,7 @@ package org.ucode.midterm;
 import java.io.*;
 import java.util.Scanner;
 
-public class statistics {
+public class Statistics {
 
     public static void main(String[] args) {
         try {
