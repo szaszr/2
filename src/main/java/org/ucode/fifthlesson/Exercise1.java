@@ -20,7 +20,7 @@ Write a Java program to print the result of the following operations.
 
  */
 
-public class exercise1 {
+public class Exercise1 {
     public static void main(String[] args) throws IOException {
         try {
             File myObj = new File("e://ex1.txt");

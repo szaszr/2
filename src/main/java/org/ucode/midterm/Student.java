@@ -1,9 +1,11 @@
 package org.ucode.midterm;
 
 public class Student {
-    String firstName, lastName, department;
-    int age;
-    double generalGrade;
+    private String firstName;
+    private String lastName;
+    private String department;
+    private int age;
+    private double generalGrade;
 
     public String getFirstName() {
         return firstName;
