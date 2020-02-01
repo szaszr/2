@@ -64,7 +64,7 @@ public class CarRentalService {
                 }
                 System.out.println("Please specify the fuel");
                 String fuelType = sc.next();
-                while (!fuelType.equals("petrol") || !fuelType.equals("diesel") || !fuelType.equals("electric")) {
+                while (!(fuelType.equals("petrol") || fuelType.equals("diesel") || fuelType.equals("electric"))) {
                     System.out.println("Please specify a valid fuel type(petrol, diesel or electric)");
                     fuelType = sc.next();
                 }
