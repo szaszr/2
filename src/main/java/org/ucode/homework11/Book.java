@@ -6,6 +6,15 @@ public class Book {
     protected String author;
     protected String title;
     protected int year;
+    protected String type;
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
 
     public long getISBN() {
         return ISBN;
@@ -47,11 +56,12 @@ public class Book {
         this.year = year;
     }
 
-    public Book(long ISBN, String publisher, String author, String title, int year) {
+    public Book(long ISBN, String publisher, String author, String title, int year, String type) {
         this.ISBN = ISBN;
         this.publisher = publisher;
         this.author = author;
         this.title = title;
         this.year = year;
+        this.type = type;
     }
 }

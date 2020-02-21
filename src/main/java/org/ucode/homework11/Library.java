@@ -70,9 +70,14 @@ public class Library {
                 }
 
                 System.out.println("Please specify the type");
+                String type = sc.next();
+                while (!(type.equals("kindle") || type.equals("audiobook") || type.equals("hardcover") || type.equals("paperback"))) {
+                    System.out.println("Please specify a valid book type(kindle, audiobook, hardcover or paperback)");
+                    type = sc.next();
+                }
 
-                inventory.add(new Book(isbn, publisher, author, title, year));
-                availableBooks.add(new Book(isbn, publisher, author, title, year));
+                inventory.add(new Book(isbn, publisher, author, title, year, type));
+                availableBooks.add(new Book(isbn, publisher, author, title, year, type));
                 System.out.println("New book successfully added");
             }
             else if (input.equals("2")){
@@ -88,7 +93,78 @@ public class Library {
             else if (input.equals("3")){
                 System.out.println("Please specify the ISBN of the book you would like to rent:");
                 long borrow = sc.nextLong();
+                for (int i=0;i<availableBooks.size();i++){
+                    if (borrow == availableBooks.get(i).ISBN) {
+                        borrowedBooks.add(new Book(availableBooks.get(i).ISBN, availableBooks.get(i).publisher, availableBooks.get(i).author, availableBooks.get(i).title, availableBooks.get(i).year, availableBooks.get(i).type));
+                        availableBooks.remove(new Book(availableBooks.get(i).ISBN, availableBooks.get(i).publisher, availableBooks.get(i).author, availableBooks.get(i).title, availableBooks.get(i).year, availableBooks.get(i).type));
+                        System.out.println("Book with ISBN number "+availableBooks.get(i).getISBN()+" has been successfully borrowed.");
+                    }
+                    while (borrow != availableBooks.get(i).ISBN){
+                        System.out.println("Book with ISBN number "+availableBooks.get(i).getISBN()+" is not available. Please choose another one.");
+                        borrow = sc.nextLong();
+                    }
+                }
 
+            }
+            else if (input.equals("4")){
+                System.out.println("Please specify the ISBN of the book you would like to return:");
+                long returnBook = sc.nextLong();
+                for (int i=0;i<availableBooks.size();i++){
+                    if (returnBook == borrowedBooks.get(i).ISBN) {
+                        borrowedBooks.remove(new Book(availableBooks.get(i).ISBN, availableBooks.get(i).publisher, availableBooks.get(i).author, availableBooks.get(i).title, availableBooks.get(i).year, availableBooks.get(i).type));
+                        availableBooks.add(new Book(availableBooks.get(i).ISBN, availableBooks.get(i).publisher, availableBooks.get(i).author, availableBooks.get(i).title, availableBooks.get(i).year, availableBooks.get(i).type));
+                        System.out.println("Book with ISBN number "+availableBooks.get(i).getISBN()+" has been successfully returned.");
+                    }
+                    while (returnBook != availableBooks.get(i).ISBN){
+                        System.out.println("Book with ISBN number "+availableBooks.get(i).getISBN()+" is not available. Please choose another one.");
+                        returnBook = sc.nextLong();
+                    }
+                }
+            }
+            else if (input.equals("5")){
+                System.out.println("Please specify the author that you would like to search for");
+                String authorSearch = sc.next();
+                for (int i = 0; i < inventory.size(); i++) {
+                    if (authorSearch == inventory.get(i).author){
+                        System.out.println("book ISBN: " + inventory.get(i).getISBN());
+                        System.out.println("publisher: " + inventory.get(i).getPublisher());
+                        System.out.println("author: " + inventory.get(i).getAuthor());
+                        System.out.println("title: " + inventory.get(i).getTitle());
+                        System.out.println("year: " + inventory.get(i).getYear());
+                        System.out.println("type: " + inventory.get(i).getType());
+                        System.out.println();
+                    }
+                }
+        }
+            else if (input.equals("6")){
+                System.out.println("Please specify the title that you would like to search for");
+                String titleSearch = sc.next();
+                for (int i = 0; i < inventory.size(); i++) {
+                    if (titleSearch == inventory.get(i).title){
+                        System.out.println("book ISBN: " + inventory.get(i).getISBN());
+                        System.out.println("publisher: " + inventory.get(i).getPublisher());
+                        System.out.println("author: " + inventory.get(i).getAuthor());
+                        System.out.println("title: " + inventory.get(i).getTitle());
+                        System.out.println("year: " + inventory.get(i).getYear());
+                        System.out.println("type: " + inventory.get(i).getType());
+                        System.out.println();
+                    }
+                }
+            }
+            else if (input.equals("7")){
+                System.out.println("Please specify the type that you would like to search for");
+                String typeSearch = sc.next();
+                for (int i = 0; i < inventory.size(); i++) {
+                    if (typeSearch == inventory.get(i).type){
+                        System.out.println("book ISBN: " + inventory.get(i).getISBN());
+                        System.out.println("publisher: " + inventory.get(i).getPublisher());
+                        System.out.println("author: " + inventory.get(i).getAuthor());
+                        System.out.println("title: " + inventory.get(i).getTitle());
+                        System.out.println("year: " + inventory.get(i).getYear());
+                        System.out.println("type: " + inventory.get(i).getType());
+                        System.out.println();
+                    }
+                }
             }
         }
         while (!input.equals("8"));
