@@ -1,4 +1,8 @@
 package lesson12;
 
-public class SUV {
+public class SUV extends Car {
+
+    public void accelerate(){
+        System.out.println("Accelerate the SUV");
+    }
 }

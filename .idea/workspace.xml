@@ -2,57 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d0b8cd6-0a81-4b50-83d2-f1a7d3412a71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Audiobook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Hardcover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Kindle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Paperback.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/homework9/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework9/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise22.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise26.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise27.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise28.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise29.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise30.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise31.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise32.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise33.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise34.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise35.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise36.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise37.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise38.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise38DeDouaOri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise39.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise39.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/homework9/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/homework9/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/homework9/CarRentalService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/homework9/CarRentalService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Statistics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/Bycicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/Bycicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/DemoAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/DemoAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/DemoInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/DemoInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/Iphone11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/Iphone11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/IphoneX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/IphoneX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/SUV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/SUV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/books/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/books/BookLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/books/BookLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/books/GenericBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/books/GenericBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/books/KindleBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/books/KindleBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson12/books/MainBookClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson12/books/MainBookClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +33,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -97,17 +70,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.ucode.fifthlesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Library">
+  <component name="RunManager" selected="Application.CarRentalService">
     <configuration name="CarRentalService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ucode.homework9.CarRentalService" />
       <module name="thirdlesson" />
@@ -121,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ucode.fifthlesson.Exercise1" />
+    <configuration name="DemoAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12.DemoAbstract" />
       <module name="thirdlesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ucode.fifthlesson.*" />
+          <option name="PATTERN" value="lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ucode.fifthlesson.Exercise22" />
+    <configuration name="DemoInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12.DemoInterfaces" />
       <module name="thirdlesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ucode.fifthlesson.*" />
+          <option name="PATTERN" value="lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Library" />
         <item itemvalue="Application.CarRentalService" />
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.DemoInterfaces" />
+        <item itemvalue="Application.DemoAbstract" />
         <item itemvalue="Application.Statistics" />
-        <item itemvalue="Application.Exercise22" />
-        <item itemvalue="Application.Exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +179,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573758994305</updated>
     </task>
+    <task id="LOCAL-00001" summary="update 2.16.2020">
+      <created>1581865812881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581865812881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,17 +204,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update 2.16.2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2.16.2020" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="91" key="#Project_Structure" timestamp="1582221988759">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="91" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1582221988759" />
     <state x="-1230" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576147527649">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
     <state x="-1230" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1576147527649" />
-    <state x="-1674" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1581862174481">
+    <state x="-1674" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1582274177568">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
-    <state x="-1674" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581862174481" />
-    <state x="205" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1581537592405" />
+    <state x="-1674" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582274177568" />
+    <state x="205" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1582224790728" />
     <state x="-1230" y="201" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576148234937">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
@@ -242,30 +229,38 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="723" y="141" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1580413073609" />
-    <state width="800" height="626" key="GridCell.Tab.0.bottom" timestamp="1581865324884">
+    <state x="-1306" y="49" key="CommitChangelistDialog2" timestamp="1581865810890">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
-    <state width="800" height="626" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
+    <state x="-1306" y="49" key="CommitChangelistDialog2/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865810890" />
+    <state x="-1180" y="210" key="FileChooserDialogImpl" timestamp="1582276664287">
+      <screen x="-1920" y="-65" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="210" key="FileChooserDialogImpl/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582276664287" />
+    <state width="574" height="912" key="GridCell.Tab.0.bottom" timestamp="1582277010453">
+      <screen x="-1920" y="-65" width="1920" height="1040" />
+    </state>
+    <state width="574" height="912" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
     <state width="1557" height="200" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="800" height="626" key="GridCell.Tab.0.center" timestamp="1581865324884">
+    <state width="435" height="732" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582225874091" />
+    <state width="574" height="912" key="GridCell.Tab.0.center" timestamp="1582277010453">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
-    <state width="800" height="626" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
+    <state width="574" height="912" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
     <state width="1557" height="200" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="800" height="626" key="GridCell.Tab.0.left" timestamp="1581865324884">
+    <state width="435" height="732" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582225874090" />
+    <state width="574" height="912" key="GridCell.Tab.0.left" timestamp="1582277010453">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
-    <state width="800" height="626" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
+    <state width="574" height="912" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
     <state width="1557" height="200" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="800" height="626" key="GridCell.Tab.0.right" timestamp="1581865324884">
+    <state width="435" height="732" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582225874090" />
+    <state width="574" height="912" key="GridCell.Tab.0.right" timestamp="1582277010453">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
-    <state width="800" height="626" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
+    <state width="574" height="912" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
     <state width="1557" height="200" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
+    <state width="435" height="732" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582225874091" />
     <state width="1557" height="203" key="GridCell.Tab.1.bottom" timestamp="1580568972451">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -286,16 +281,18 @@
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1580384136578" />
     <state width="1557" height="203" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state x="280" y="4" key="SettingsEditor" timestamp="1576430805759">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="280" y="4" key="SettingsEditor/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576430805759" />
-    <state x="-1326" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581865666750">
+    <state x="-1584" y="-60" key="SettingsEditor" timestamp="1582269551371">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
-    <state x="-1326" y="241" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865666750" />
+    <state x="-1584" y="-60" key="SettingsEditor/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582269551371" />
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576430805759" />
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1582218612236" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1582447772317">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1326" y="241" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581926332116" />
     <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1579799930837" />
-    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1581537222205" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582447772317" />
     <state x="504" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576430613131">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
