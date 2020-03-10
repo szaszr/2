@@ -116,7 +116,7 @@ public class Library {
                         System.out.println("Book with ISBN number "+availableBooks.get(i).getISBN()+" has been successfully returned.");
                     }
                     while (returnBook != availableBooks.get(i).ISBN){
-                        System.out.println("Book with ISBN number "+availableBooks.get(i).getISBN()+" is not available. Please choose another one.");
+                        System.out.println("Book with ISBN number "+availableBooks.get(i).getISBN()+" was not borrowed. Please choose another one.");
                         returnBook = sc.nextLong();
                     }
                 }

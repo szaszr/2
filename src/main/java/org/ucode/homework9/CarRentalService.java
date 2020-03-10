@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class CarRentalService {
     public static void main(String[] args) {
+
         ArrayList<Car> inventory = new ArrayList<Car>();
         ArrayList<Car> availableCars = new ArrayList<Car>();
         ArrayList<Car> rentedCars = new ArrayList<Car>();
@@ -27,7 +28,7 @@ public class CarRentalService {
                 System.out.println("Please specify the new car id");
                 int id = sc.nextInt();
                 for (int i = 0; i < inventory.size(); i++) {
-                    if (id == inventory.get(i).carID) {
+                    if (id == inventory.get(i).getCarID()) {
                         System.out.println("That car id is already taken. Please specify another one.");
                         id = sc.nextInt();
                     }
@@ -73,13 +74,13 @@ public class CarRentalService {
                 System.out.println("New car added");
             } else if (input.equals("2")) {
                 for (int i = 0; i < inventory.size(); i++) {
-                    System.out.println("car id: " + inventory.get(i).carID);
-                    System.out.println("make: " + inventory.get(i).make);
-                    System.out.println("model: " + inventory.get(i).model);
-                    System.out.println("rental price: " + inventory.get(i).rentalPrice);
-                    System.out.println("year: " + inventory.get(i).year);
-                    System.out.println("mileage: " + inventory.get(i).mileage);
-                    System.out.println("fuel type: " + inventory.get(i).fuelType);
+                    System.out.println("car id: " + inventory.get(i).getCarID());
+                    System.out.println("make: " + inventory.get(i).getMake());
+                    System.out.println("model: " + inventory.get(i).getModel());
+                    System.out.println("rental price: " + inventory.get(i).getRentalPrice());
+                    System.out.println("year: " + inventory.get(i).getYear());
+                    System.out.println("mileage: " + inventory.get(i).getMileage());
+                    System.out.println("fuel type: " + inventory.get(i).getFuelType());
                     System.out.println();
                 }
             }
@@ -92,12 +93,12 @@ public class CarRentalService {
                     System.out.println("Please specify the car ID which the customer would like to rent");
                     int rent = sc.nextInt();
                     for (int i = 0; i < availableCars.size(); i++) {
-                        if (rent == availableCars.get(i).carID) {
-                            rentedCars.add(new Car(inventory.get(i).carID, inventory.get(i).make, inventory.get(i).model, inventory.get(i).rentalPrice, inventory.get(i).year, inventory.get(i).mileage, inventory.get(i).fuelType));
-                            availableCars.remove(new Car(inventory.get(i).carID, inventory.get(i).make, inventory.get(i).model, inventory.get(i).rentalPrice, inventory.get(i).year, inventory.get(i).mileage, inventory.get(i).fuelType));
-                            System.out.println("Successful rental for car with id " + inventory.get(i).carID);
+                        if (rent == availableCars.get(i).getCarID()) {
+                            rentedCars.add(new Car(inventory.get(i).getCarID(), inventory.get(i).getMake(), inventory.get(i).getModel(), inventory.get(i).getRentalPrice(), inventory.get(i).getYear(), inventory.get(i).getMileage(), inventory.get(i).getFuelType()));
+                            availableCars.remove(new Car(inventory.get(i).getCarID(), inventory.get(i).getMake(), inventory.get(i).getModel(), inventory.get(i).getRentalPrice(), inventory.get(i).getYear(), inventory.get(i).getMileage(), inventory.get(i).getFuelType()));
+                            System.out.println("Successful rental for car with id " + inventory.get(i).getCarID());
                         }
-                        while (rent != availableCars.get(i).carID) {
+                        while (rent != availableCars.get(i).getCarID()) {
                             System.out.println("Car with id " + rent + " is not available. Please try again");
                             rent = sc.nextInt();
                         }
@@ -110,12 +111,12 @@ public class CarRentalService {
                 System.out.println("Please specify the car ID which the customer would like to rent");
                 int returnCar = sc.nextInt();
                 for (int i = 0; i < rentedCars.size(); i++) {
-                    if (returnCar == rentedCars.get(i).carID) {
-                        rentedCars.remove(new Car(inventory.get(i).carID, inventory.get(i).make, inventory.get(i).model, inventory.get(i).rentalPrice, inventory.get(i).year, inventory.get(i).mileage, inventory.get(i).fuelType));
-                        availableCars.add(new Car(inventory.get(i).carID, inventory.get(i).make, inventory.get(i).model, inventory.get(i).rentalPrice, inventory.get(i).year, inventory.get(i).mileage, inventory.get(i).fuelType));
-                        System.out.println("Successful return for car with id " + inventory.get(i).carID);
+                    if (returnCar == rentedCars.get(i).getCarID()) {
+                        rentedCars.remove(new Car(inventory.get(i).getCarID(), inventory.get(i).getMake(), inventory.get(i).getModel(), inventory.get(i).getRentalPrice(), inventory.get(i).getYear(), inventory.get(i).getMileage(), inventory.get(i).getFuelType()));
+                        availableCars.add(new Car(inventory.get(i).getCarID(), inventory.get(i).getMake(), inventory.get(i).getModel(), inventory.get(i).getRentalPrice(), inventory.get(i).getYear(), inventory.get(i).getMileage(), inventory.get(i).getFuelType()));
+                        System.out.println("Successful return for car with id " + inventory.get(i).getCarID());
                     }
-                    while (returnCar != rentedCars.get(i).carID) {
+                    while (returnCar != rentedCars.get(i).getCarID()) {
                         System.out.println("Car with id " + returnCar + " was not rented. Please try again.");
                         returnCar = sc.nextInt();
                     }
