@@ -1,13 +1,14 @@
 package org.ucode.homework9;
 
 public class Car {
-    String make;
-    String model;
-    String fuelType;
-    int carID;
-    int rentalPrice;
-    int year;
-    int mileage;
+    private String make;
+    private String model;
+    private String fuelType;
+    private int carID;
+    private int rentalPrice;
+    private int year;
+    private int mileage;
+
 
     public String getMake() {
         return make;

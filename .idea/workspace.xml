@@ -2,57 +2,182 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d0b8cd6-0a81-4b50-83d2-f1a7d3412a71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Audiobook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Hardcover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Kindle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework11/Paperback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson13/ListExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson13/MapExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson13/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/BabyCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/CallingFunctionsFromOtherFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/DisplayingSomeMultiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/DistanceFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/EvennessFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/Fill_InFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/FindingPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/FlickerPhrase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/FunctionCallAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/HeronFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/HeronFormulaNoFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/KeychainsForSale1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/KeychainsForSale2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/KeychainsForSale3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/MonthName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/MonthOffset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/MoreFill_InFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/PictureMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/RefresherChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/functions/WeekdayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/InventoryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pets/Shop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/homework9/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/homework9/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise22.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise26.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise27.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise28.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise29.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise30.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise31.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise32.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise33.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise34.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise35.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise36.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise37.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise38.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise38DeDouaOri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise39.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise39.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/fifthlesson/exercise9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ACircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/graphics/ACircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AClockFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/graphics/AClockFace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ASmilingFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/graphics/ASmilingFace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AddingValuesWithForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/AddingValuesWithForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AddingValuesWithWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/AddingValuesWithWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/Adventure2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/Adventure2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/Adventure2Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/Adventure2Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AdventureGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/AdventureGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AdventureGameWithWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/AdventureGameWithWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AgeInFiveYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/keyboardInput/AgeInFiveYears.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AlphabeticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/AlphabeticalOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/AskingQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/keyboardInput/AskingQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/BabyBlackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/BabyBlackjack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/BabyNim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/BabyNim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/BlackJack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/BlackJack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/BmiCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/keyboardInput/BmiCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/BmiCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/BmiCategories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/CollatzSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/CollatzSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/CompareToChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/CompareToChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/CountingByHalves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/CountingByHalves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/CountingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/CountingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/CountingMachineRevisited.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/CountingMachineRevisited.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/CountingWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/CountingWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/CountingWithForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/CountingWithForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/DiceDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/DiceDoubles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/DiceRoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/randomNumbers/DiceRoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/DoWhileSwimming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/DoWhileSwimming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/DumbCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/keyboardInput/DumbCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ElseAndIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/ElseAndIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/EnterYourPin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/EnterYourPin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/FlipAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/FlipAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/FortuneCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/randomNumbers/FortuneCookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/GenderGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/GenderGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/GraphicsDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/graphics/GraphicsDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/GraphicsDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/graphics/GraphicsDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/GraphicsDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/graphics/GraphicsDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/HiLoLimitedTries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/HiLoLimitedTries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/HowOldAreYou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/HowOldAreYou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/HowOldAreYouSpecifically.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/HowOldAreYouSpecifically.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/KeepGuessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/KeepGuessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/LetterAtATime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/LetterAtATime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/LittleQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/LittleQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/Magic8Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/randomNumbers/Magic8Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ModulusAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/ModulusAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/MoreUserInputOfData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/keyboardInput/MoreUserInputOfData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/MoreVariablesAndPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/variables/MoreVariablesAndPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/NameAgeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/keyboardInput/NameAgeSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/Nim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/Nim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/NoticingEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/NoticingEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/NumberGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/randomNumbers/NumberGuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/NumberGuessingWithCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/NumberGuessingWithCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/NumberGuessingWithCounterDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/NumberGuessingWithCounterDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/OneShotHiLo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/randomNumbers/OneShotHiLo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/PinLockout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/whileLoops/PinLockout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/Randomness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/randomNumbers/Randomness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/RightTriangleChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/RightTriangleChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/SafeSquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/SafeSquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ShorterDoubleDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/doWhile/ShorterDoubleDice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/SpaceBoxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/SpaceBoxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/TenTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/TenTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/TheForgetfulMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/keyboardInput/TheForgetfulMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/TheWorstGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/TheWorstGuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ThreeCardMonte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/randomNumbers/ThreeCardMonte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/TwentyQuestionCondensedIntoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/TwentyQuestionBoiledDownIntoTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/TwoMoreQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/TwoMoreQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/WeekdayName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/WeekdayName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/WhatIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/ifStatements/WhatIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/XsAndYs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ucode/javapractice/forLoops/XsAndYs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ACircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AClockFace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ASmilingFace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AddingValuesWithForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AddingValuesWithWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Adventure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Adventure2Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AdventureGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AdventureGameWithWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AgeInFiveYears.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AlphabeticalOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AskingQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BabyBlackjack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BabyNim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BlackJack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BmiCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BmiCategories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CollatzSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CompareToChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountingByHalves.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountingMachineRevisited.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountingWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountingWithForLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DiceDoubles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DiceRoll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DoWhileSwimming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DumbCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ElseAndIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EnterYourPin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FlipAgain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FortuneCookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GenderGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicsDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicsDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphicsDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HiLoLimitedTries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HowOldAreYou.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HowOldAreYouSpecifically.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/KeepGuessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LetterAtATime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LittleQuiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Magic8Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModulusAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MoreUserInputOfData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MoreVariablesAndPrinting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NameAgeSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NoticingEvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NumberGuessingGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NumberGuessingWithCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NumberGuessingWithCounterDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OneShotHiLo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PinLockout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Randomness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RightTriangleChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SafeSquareRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShorterDoubleDice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SpaceBoxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TenTimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TheForgetfulMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TheWorstGuessingGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreeCardMonte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TwentyQuestionCondensedIntoTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TwoMoreQuestions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WeekdayName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WhatIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/XsAndYs.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/homework9/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/homework9/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/homework9/CarRentalService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/homework9/CarRentalService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Statistics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ucode/midterm/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +190,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -96,24 +227,25 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.ucode.fifthlesson" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Library">
-    <configuration name="CarRentalService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ucode.homework9.CarRentalService" />
+  <component name="RunManager" selected="Application.DisplayingSomeMultiples">
+    <configuration name="BabyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ucode.javapractice.functions.BabyCalculator" />
       <module name="thirdlesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ucode.homework9.*" />
+          <option name="PATTERN" value="org.ucode.javapractice.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ucode.fifthlesson.Exercise1" />
+    <configuration name="DisplayingSomeMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ucode.javapractice.functions.DisplayingSomeMultiples" />
       <module name="thirdlesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ucode.fifthlesson.*" />
+          <option name="PATTERN" value="org.ucode.javapractice.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ucode.fifthlesson.Exercise22" />
+    <configuration name="EvennessFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ucode.javapractice.functions.EvennessFunction" />
       <module name="thirdlesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ucode.fifthlesson.*" />
+          <option name="PATTERN" value="org.ucode.javapractice.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ucode.homework11.Library" />
+    <configuration name="FindingPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ucode.javapractice.functions.FindingPrimeNumbers" />
       <module name="thirdlesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ucode.homework11.*" />
+          <option name="PATTERN" value="org.ucode.javapractice.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ucode.midterm.Statistics" />
+    <configuration name="RefresherChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ucode.javapractice.functions.RefresherChallenge" />
       <module name="thirdlesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ucode.midterm.*" />
+          <option name="PATTERN" value="org.ucode.javapractice.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Library" />
-        <item itemvalue="Application.CarRentalService" />
-        <item itemvalue="Application.Statistics" />
-        <item itemvalue="Application.Exercise22" />
-        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.DisplayingSomeMultiples" />
+        <item itemvalue="Application.RefresherChallenge" />
+        <item itemvalue="Application.BabyCalculator" />
+        <item itemvalue="Application.FindingPrimeNumbers" />
+        <item itemvalue="Application.EvennessFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +338,28 @@
       <option name="presentableId" value="Default" />
       <updated>1573758994305</updated>
     </task>
+    <task id="LOCAL-00001" summary="update 2.16.2020">
+      <created>1581865812881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581865812881</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 2.23.2020">
+      <created>1582447993400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582447993400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 3.10.2020">
+      <created>1583861845880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583861845880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,94 +377,174 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update 2.16.2020" />
+    <MESSAGE value="update 2.23.2020" />
+    <MESSAGE value="update 3.10.2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 3.10.2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1230" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576147527649">
-      <screen x="-1920" y="-65" width="1920" height="1040" />
+    <state x="392" y="91" key="#Project_Structure" timestamp="1582221988759">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="-1230" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1576147527649" />
-    <state x="-1674" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1581862174481">
-      <screen x="-1920" y="-65" width="1920" height="1040" />
+    <state x="392" y="91" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1582221988759" />
+    <state x="-1230" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585644570889">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
     </state>
-    <state x="-1674" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581862174481" />
-    <state x="205" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1581537592405" />
-    <state x="-1230" y="201" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576148234937">
-      <screen x="-1920" y="-65" width="1920" height="1040" />
+    <state x="-1230" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585644570889" />
+    <state x="205" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1584032426315">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="-1230" y="201" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1576148234937" />
+    <state x="-1674" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582274177568" />
+    <state x="205" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1584032426315" />
+    <state x="450" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583433349133">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="450" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1583433349133" />
+    <state x="554" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584032459534">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="554" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1584032459534" />
     <state x="723" y="141" key="#xdebugger.evaluate" timestamp="1580413073609">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="723" y="141" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1580413073609" />
-    <state width="800" height="626" key="GridCell.Tab.0.bottom" timestamp="1581865324884">
+    <state x="-1306" y="-5" key="CommitChangelistDialog2" timestamp="1585727714815">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="-1306" y="-5" key="CommitChangelistDialog2/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585727714815" />
+    <state x="-1306" y="49" key="CommitChangelistDialog2/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865810890" />
+    <state x="512" y="49" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583861844637" />
+    <state x="-1180" y="210" key="FileChooserDialogImpl" timestamp="1582276664287">
       <screen x="-1920" y="-65" width="1920" height="1040" />
     </state>
-    <state width="800" height="626" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
-    <state width="1557" height="200" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="800" height="626" key="GridCell.Tab.0.center" timestamp="1581865324884">
-      <screen x="-1920" y="-65" width="1920" height="1040" />
+    <state x="-1180" y="210" key="FileChooserDialogImpl/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582276664287" />
+    <state width="851" height="912" key="GridCell.Tab.0.bottom" timestamp="1585727372233">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
     </state>
-    <state width="800" height="626" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
-    <state width="1557" height="200" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="800" height="626" key="GridCell.Tab.0.left" timestamp="1581865324884">
-      <screen x="-1920" y="-65" width="1920" height="1040" />
-    </state>
-    <state width="800" height="626" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
-    <state width="1557" height="200" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="800" height="626" key="GridCell.Tab.0.right" timestamp="1581865324884">
-      <screen x="-1920" y="-65" width="1920" height="1040" />
-    </state>
-    <state width="800" height="626" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865324884" />
-    <state width="1557" height="200" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576434406358" />
-    <state width="1557" height="203" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="1557" height="203" key="GridCell.Tab.1.bottom" timestamp="1580568972451">
+    <state width="1600" height="406" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1582831363329">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1600" height="406" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363329" />
+    <state width="851" height="912" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585727372233" />
+    <state width="574" height="912" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
+    <state width="706" height="732" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585647302929" />
+    <state width="706" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585493796210" />
+    <state width="851" height="912" key="GridCell.Tab.0.center" timestamp="1585727372233">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1582831363329">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.0.center.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363329" />
+    <state width="851" height="912" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585727372233" />
+    <state width="574" height="912" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
+    <state width="706" height="732" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585647302929" />
+    <state width="706" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585493796210" />
+    <state width="851" height="912" key="GridCell.Tab.0.left" timestamp="1585727372233">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1582831363329">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.0.left.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363329" />
+    <state width="851" height="912" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585727372233" />
+    <state width="574" height="912" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
+    <state width="706" height="732" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585647302929" />
+    <state width="706" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585493796210" />
+    <state width="851" height="912" key="GridCell.Tab.0.right" timestamp="1585727372233">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1582831363329">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.0.right.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363329" />
+    <state width="851" height="912" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585727372233" />
+    <state width="574" height="912" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582277010453" />
+    <state width="706" height="732" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585647302929" />
+    <state width="706" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585493796210" />
+    <state width="1877" height="198" key="GridCell.Tab.1.bottom" timestamp="1585725899148">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1582831363704">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363704" />
+    <state width="1877" height="198" key="GridCell.Tab.1.bottom/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585725899148" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1580384136578" />
-    <state width="1557" height="203" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="1557" height="203" key="GridCell.Tab.1.center" timestamp="1580568972451">
+    <state width="1601" height="141" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582831615493" />
+    <state width="1877" height="198" key="GridCell.Tab.1.center" timestamp="1585725899148">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1582831363704">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.center.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363704" />
+    <state width="1877" height="198" key="GridCell.Tab.1.center/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585725899148" />
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1580384136578" />
-    <state width="1557" height="203" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="1557" height="203" key="GridCell.Tab.1.left" timestamp="1580568972451">
+    <state width="1601" height="141" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1582831615493" />
+    <state width="1877" height="198" key="GridCell.Tab.1.left" timestamp="1585725899148">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1582831363704">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.left.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363704" />
+    <state width="1877" height="198" key="GridCell.Tab.1.left/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585725899148" />
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1580384136578" />
-    <state width="1557" height="203" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state width="1557" height="203" key="GridCell.Tab.1.right" timestamp="1580568972451">
+    <state width="1601" height="141" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1582831615493" />
+    <state width="1877" height="198" key="GridCell.Tab.1.right" timestamp="1585725899148">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1582831363704">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1600" height="406" key="GridCell.Tab.1.right.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582831363704" />
+    <state width="1877" height="198" key="GridCell.Tab.1.right/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585725899148" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1580384136578" />
-    <state width="1557" height="203" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1580568972451" />
-    <state x="280" y="4" key="SettingsEditor" timestamp="1576430805759">
+    <state width="1601" height="141" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1582831615493" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1582900672260">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="280" y="4" key="SettingsEditor/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576430805759" />
-    <state x="-1326" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581865666750">
-      <screen x="-1920" y="-65" width="1920" height="1040" />
-    </state>
-    <state x="-1326" y="241" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1581865666750" />
-    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1579799930837" />
-    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1581537222205" />
-    <state x="504" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576430613131">
+    <state x="-1584" y="-60" key="SettingsEditor/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1582269551371" />
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1582900672260" />
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1582827227204" />
+    <state x="392" y="151" key="Vcs.Push.Dialog.v2" timestamp="1583862045717">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="504" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576430613131" />
-    <state x="465" y="71" width="606" height="789" key="find.popup" timestamp="1575572493079">
+    <state x="392" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583862045717" />
+    <state x="-1326" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1585723443155">
+      <screen x="-1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="-1326" y="242" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-64.1920.1040@-1920.-64.1920.1040" timestamp="1585723443155" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-64.1920.1040@0.0.1600.860" timestamp="1585669760622" />
+    <state x="-1326" y="241" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1584612671451" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1584613511390" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584031617451" />
+    <state x="0" y="0" width="1616" height="947" key="dock-window-1" timestamp="1584613277065">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="465" y="71" width="606" height="789" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1575572493079" />
-    <state x="182" y="50" key="new project wizard" timestamp="1576511450608">
+    <state x="0" y="0" width="1616" height="947" key="dock-window-1/0.0.1600.860/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1584613277065" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1582827388520">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="182" y="50" key="new project wizard/0.0.1600.860/-1920.-65.1920.1040@0.0.1600.860" timestamp="1576511450608" />
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1580412968808">
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582827388520" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1583437693403">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1580412968808" />
+    <state x="126" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode" timestamp="1582828263963">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="126" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode/0.0.1600.860@0.0.1600.860" timestamp="1582828263963" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583437693403" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="student" language="JAVA" />
+        <watch expression="existingList" language="JAVA" />
+        <watch expression="students" language="JAVA" />
+        <watch expression="existingList.get(0)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
