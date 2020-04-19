@@ -1,0 +1,13 @@
+Grand Hotal Italia, 5, 100
+pool, safe, tv, telephone, restaurant, bar
+Romania, Cluj-Napoca, Trifoiului, 10, 0740 111 222, contact@grandhotelitalia.ro, https://www.booking.com/ghi
+single, 1, 1, false, true, false, 200, 100, false
+single, 2, 1, true, false, false, 300, 150, false
+single, 3, 1, true, true, false, 300, 150, false
+single, 4, 1, false, true, false, 200, 200, false
+single, 5, 1, false, true, false, 200, 100, false
+apartment, 6, 2, false, true, false, 300, 200, true, 2
+apartment, 7, 3, false, true, false, 300, 300, true, 3
+apartment, 8, 3, false, true, false, 300, 300, true, 3
+apartment, 9, 3, false, true, false, 300, 350, true, 3
+apartment, 10, 3, false, true, false, 300, 200, true, 3

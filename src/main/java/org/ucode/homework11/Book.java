@@ -57,6 +57,9 @@ public class Book {
         this.year = year;
     }
 
+    public Book() {
+    }
+
     public Book(long ISBN, String publisher, String author, String title, int year, String type) {
         this.ISBN = ISBN;
         this.publisher = publisher;
