@@ -27,6 +27,7 @@ public class Library {
 
             if (input.equals("1")){
                 System.out.println("Please specify the ISBN");
+                Book book = new Book();
                 long isbn = sc.nextLong();
                 String lengthOfISBN = Long.toString(isbn);
                 while (lengthOfISBN.length()<10){
@@ -34,6 +35,7 @@ public class Library {
                     isbn = sc.nextLong();
                     lengthOfISBN = Long.toString(isbn);
                 }
+                book.setISBN(isbn);
 
                 System.out.println("Please specify the publisher");
                 String publisher = sc.next();
@@ -125,7 +127,7 @@ public class Library {
                 System.out.println("Please specify the author that you would like to search for");
                 String authorSearch = sc.next();
                 for (int i = 0; i < inventory.size(); i++) {
-                    if (authorSearch == inventory.get(i).author){
+                    if (authorSearch.equals(inventory.get(i).author)){
                         System.out.println("book ISBN: " + inventory.get(i).getISBN());
                         System.out.println("publisher: " + inventory.get(i).getPublisher());
                         System.out.println("author: " + inventory.get(i).getAuthor());
@@ -140,7 +142,7 @@ public class Library {
                 System.out.println("Please specify the title that you would like to search for");
                 String titleSearch = sc.next();
                 for (int i = 0; i < inventory.size(); i++) {
-                    if (titleSearch == inventory.get(i).title){
+                    if (titleSearch.equals(inventory.get(i).title)){
                         System.out.println("book ISBN: " + inventory.get(i).getISBN());
                         System.out.println("publisher: " + inventory.get(i).getPublisher());
                         System.out.println("author: " + inventory.get(i).getAuthor());
@@ -155,7 +157,7 @@ public class Library {
                 System.out.println("Please specify the type that you would like to search for");
                 String typeSearch = sc.next();
                 for (int i = 0; i < inventory.size(); i++) {
-                    if (typeSearch == inventory.get(i).type){
+                    if (typeSearch.equals(inventory.get(i).type)){
                         System.out.println("book ISBN: " + inventory.get(i).getISBN());
                         System.out.println("publisher: " + inventory.get(i).getPublisher());
                         System.out.println("author: " + inventory.get(i).getAuthor());
